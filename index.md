@@ -7,3 +7,4 @@ The repository behind this page: [Mlivg.github.io](https://github.com/Mlivg/Mliv
 ## What I built in this course
 
 - Session 1: this page.
+- Session 2: [Using an MCP server](mcp.html)
