@@ -8,3 +8,4 @@ The repository behind this page: [Mlivg.github.io](https://github.com/Mlivg/Mliv
 
 - Session 1: this page.
 - Session 2: [Using an MCP server](mcp.html)
+- Session 2: [Design of the Firm AI adoption agent](https://mlivg.github.io/firm-ai-adoption-agent/design.html)
